@@ -1,3 +1,3 @@
-# Arduino
+# ARDUINO
 
-![image](https://user-images.githubusercontent.com/127751574/225007384-c9e44ec6-4151-4cd7-9151-ff6ad94d6baf.png)
+![image](https://user-images.githubusrcontent.com/127751574/225009246-5cd5d61b-fd71-4450-8c1d-44097418fb8a.png)
